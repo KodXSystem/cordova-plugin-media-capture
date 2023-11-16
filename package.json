@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-media-capture",
-  "version": "5.0.1-dev",
+  "name": "cordova-plugin-media-capture-fix",
+  "version": "5.0.2",
   "description": "Cordova Media Capture Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -12,8 +12,8 @@
       "browser"
     ]
   },
-  "repository": "github:apache/cordova-plugin-media-capture",
-  "bugs": "https://github.com/apache/cordova-plugin-media-capture/issues",
+  "repository": "github.com/KodXSystem/cordova-plugin-media-capture",
+  "bugs": "https://github.com/KodXSystem/cordova-plugin-media-capture/issues",
   "keywords": [
     "cordova",
     "media",
